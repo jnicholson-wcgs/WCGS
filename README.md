@@ -1,0 +1,2 @@
+# WCGS
+WCGS Computer Science
